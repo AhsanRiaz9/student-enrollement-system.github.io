@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#header, #footer{
+    background-color: #479A87;
+    color: white;
+    border: 2px solid black;
+}
+
+.row{
+    margin-top: 40px;
+    width: 100%;
+    margin-bottom: 30px !important;
+}
+
+body{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+label {
+    margin-right: 50px;
+}
+
+button#clrBtn{
+    margin-left: 30px !important;
+}
+
+img
+{
+    height: 120px; 
+    width: 120px;
+}
+
+th{
+    background-color: #6B8441 !important;
+    color: white !important;
+}
+
+.descCol{
+    padding-right: 450px; 
+}
+
+#registeredStd{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#registeredStd > tbody>tr:nth-child(odd)
+{
+    background-color: #DAF7A6;
+}
+
+#registeredStd > tbody {
+    border: 1px solid #6B8441 !important;
+
+}
+
+#div1
+{
+    margin-top: 30px;
+    height: 350px;
+    margin-bottom: 30px;
+    width: 40%;
+}
+th{
+    border: 1px solid #6B8441 !important;
+    background-color:#77a40f !important;
+}
+
+#div2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 40% !important;
+    border-left: 2px solid #479A87 !important;
+}
+
+.descCol{
+    width: 400px !important; 
+}
+
+p.name{
+    font-weight: bold;
+}
+
+.imageCol >img
+{
+    display: block;
+    width: 100%;
+    margin: 15px auto;
+}
+
+
+.descCol > div {
+    margin: 15px auto;
+}
+.descCol > div > p{
+    line-height:0.5em;
+}

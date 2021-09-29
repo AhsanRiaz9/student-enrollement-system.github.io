@@ -1,0 +1,6 @@
+I just started learning HTML CSS and javascript.
+this project is using all 3 of them and bootstrap to create a sample student enrollment form.
+1.all fields of the form should have necessary validations
+2. using javascript, add each student's information to the table dynamically
+3. image should be loaded from the URL submitted, website link can be open in a new tab
+4. using CSS animations, new enrollment should be added with a fade-in effect achieved
